@@ -1,5 +1,5 @@
 import React from "react";
-import { Duck } from "./demp";
+
 
 interface Props{
     duck:Duck
